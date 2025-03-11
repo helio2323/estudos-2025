@@ -1,0 +1,124 @@
+10-Mar-2025 20:35:01.544 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.50
+10-Mar-2025 20:35:01.545 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 7 2019 19:19:46 UTC
+10-Mar-2025 20:35:01.545 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.50.0
+10-Mar-2025 20:35:01.545 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.11.0-19-generic
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-8-openjdk-amd64/jre
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_442-8u442-b06~us1-0ubuntu1~24.04-b06
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Private Build
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/conf/logging.properties
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50
+10-Mar-2025 20:35:01.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/temp
+10-Mar-2025 20:35:01.547 INFORMAÇÕES [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+10-Mar-2025 20:35:01.595 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8001"]
+10-Mar-2025 20:35:01.599 INFORMAÇÕES [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Mar-2025 20:35:01.605 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+10-Mar-2025 20:35:01.605 INFORMAÇÕES [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Mar-2025 20:35:01.606 INFORMAÇÕES [main] org.apache.catalina.startup.Catalina.load Initialization processed in 293 ms
+10-Mar-2025 20:35:01.622 INFORMAÇÕES [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Mar-2025 20:35:01.622 INFORMAÇÕES [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.50
+10-Mar-2025 20:35:01.627 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/webapps/host-manager]
+10-Mar-2025 20:35:01.763 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/webapps/host-manager] has finished in [136] ms
+10-Mar-2025 20:35:01.763 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/webapps/docs]
+10-Mar-2025 20:35:01.771 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/webapps/docs] has finished in [8] ms
+10-Mar-2025 20:35:01.771 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/webapps/manager]
+10-Mar-2025 20:35:01.785 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/webapps/manager] has finished in [14] ms
+10-Mar-2025 20:35:01.785 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/webapps/examples]
+10-Mar-2025 20:35:01.885 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/webapps/examples] has finished in [100] ms
+10-Mar-2025 20:35:01.885 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/webapps/ROOT]
+10-Mar-2025 20:35:01.893 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/webapps/ROOT] has finished in [8] ms
+10-Mar-2025 20:35:01.894 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8001"]
+10-Mar-2025 20:35:01.898 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+10-Mar-2025 20:35:01.899 INFORMAÇÕES [main] org.apache.catalina.startup.Catalina.start Server startup in 293 ms
+10-Mar-2025 20:37:01.905 INFORMAÇÕES [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/conf/tomcat-users.xml]
+10-Mar-2025 20:37:01.911 GRAVE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.tomcat.util.digester.Digester.fatalError Parse Fatal Error at line 46 column 1: O conteúdo não é permitido na seção à esquerda.
+	org.xml.sax.SAXParseException; lineNumber: 46; columnNumber: 1; O conteúdo não é permitido na seção à esquerda.
+		at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+		at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+		at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:399)
+		at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:326)
+		at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1466)
+		at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$TrailingMiscDriver.next(XMLDocumentScannerImpl.java:1430)
+		at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:601)
+		at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:504)
+		at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:841)
+		at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:770)
+		at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+		at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+		at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:642)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1510)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:452)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:688)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:160)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:308)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1145)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1381)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1353)
+		at java.lang.Thread.run(Thread.java:750)
+10-Mar-2025 20:37:01.911 GRAVE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Error reloading memory user database [UserDatabase] from updated source [file:/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/conf/tomcat-users.xml]
+	org.xml.sax.SAXParseException; lineNumber: 46; columnNumber: 1; O conteúdo não é permitido na seção à esquerda.
+		at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1239)
+		at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:642)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1510)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:452)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:688)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:160)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:308)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1145)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1381)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1353)
+		at java.lang.Thread.run(Thread.java:750)
+10-Mar-2025 20:37:41.915 INFORMAÇÕES [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/conf/tomcat-users.xml]
+10-Mar-2025 20:37:41.916 GRAVE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.tomcat.util.digester.Digester.fatalError Parse Fatal Error at line 46 column 1: O conteúdo não é permitido na seção à esquerda.
+	org.xml.sax.SAXParseException; lineNumber: 46; columnNumber: 1; O conteúdo não é permitido na seção à esquerda.
+		at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+		at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+		at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:399)
+		at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:326)
+		at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1466)
+		at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$TrailingMiscDriver.next(XMLDocumentScannerImpl.java:1430)
+		at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:601)
+		at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:504)
+		at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:841)
+		at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:770)
+		at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+		at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+		at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:642)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1510)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:452)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:688)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:160)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:308)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1145)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1381)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1353)
+		at java.lang.Thread.run(Thread.java:750)
+10-Mar-2025 20:37:41.916 GRAVE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Error reloading memory user database [UserDatabase] from updated source [file:/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/conf/tomcat-users.xml]
+	org.xml.sax.SAXParseException; lineNumber: 46; columnNumber: 1; O conteúdo não é permitido na seção à esquerda.
+		at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1239)
+		at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:642)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1510)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:452)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:688)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:160)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:308)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1145)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1381)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1353)
+		at java.lang.Thread.run(Thread.java:750)
+10-Mar-2025 20:38:01.918 INFORMAÇÕES [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/conf/tomcat-users.xml]
+10-Mar-2025 20:53:00.630 INFORMAÇÕES [http-nio-8001-exec-6] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/webapps/tasks-backend.war]
+10-Mar-2025 20:53:04.339 INFORMAÇÕES [http-nio-8001-exec-6] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10-Mar-2025 20:53:04.344 INFORMAÇÕES [http-nio-8001-exec-6] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/webapps/tasks-backend.war] has finished in [3,714] ms
+10-Mar-2025 20:56:02.299 INFORMAÇÕES [http-nio-8001-exec-7] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/webapps/tasks.war]
+10-Mar-2025 20:56:04.144 INFORMAÇÕES [http-nio-8001-exec-7] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10-Mar-2025 20:56:04.148 INFORMAÇÕES [http-nio-8001-exec-7] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/helio/Documentos/estudos-2025/Devops/tomcat/apache-tomcat-8.5.50/webapps/tasks.war] has finished in [1,849] ms
