@@ -1,0 +1,12 @@
+10-Mar-2025 20:38:22.431 INFORMAÇÕES [http-nio-8001-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+10-Mar-2025 20:38:22.431 INFORMAÇÕES [http-nio-8001-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+10-Mar-2025 20:38:22.435 INFORMAÇÕES [http-nio-8001-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+10-Mar-2025 20:53:04.344 INFORMAÇÕES [http-nio-8001-exec-6] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+10-Mar-2025 20:55:42.287 INFORMAÇÕES [http-nio-8001-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+10-Mar-2025 20:56:04.148 INFORMAÇÕES [http-nio-8001-exec-7] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+10-Mar-2025 20:56:24.637 INFORMAÇÕES [http-nio-8001-exec-10] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+10-Mar-2025 20:56:52.249 INFORMAÇÕES [http-nio-8001-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+10-Mar-2025 20:58:52.400 INFORMAÇÕES [http-nio-8001-exec-7] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+10-Mar-2025 20:59:55.407 INFORMAÇÕES [http-nio-8001-exec-10] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+10-Mar-2025 20:59:57.595 INFORMAÇÕES [http-nio-8001-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+10-Mar-2025 21:00:04.420 INFORMAÇÕES [http-nio-8001-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
