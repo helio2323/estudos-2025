@@ -256,3 +256,16 @@ org.springframework.web.client.HttpClientErrorException$NotFound: 404 : [{"times
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:8.5.50]
 	at java.lang.Thread.run(Thread.java:750) [na:1.8.0_442]
 
+11-Mar-2025 00:05:22.407 INFORMAÇÕES [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8001"]
+2025-03-11 00:05:22.412  INFO 62703 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-11 00:05:22.413  INFO 62703 --- [extShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-03-11 00:05:22.415  INFO 62703 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+11-Mar-2025 00:05:22.419 INFORMAÇÕES [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+2025-03-11 00:05:22.419  INFO 62703 --- [extShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-03-11 00:05:22.424  INFO 62703 --- [extShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+11-Mar-2025 00:05:22.425 INFORMAÇÕES [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+11-Mar-2025 00:05:22.474 ADVERTÊNCIA [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [tasks-backend] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-Mar-2025 00:05:22.492 INFORMAÇÕES [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8001"]
+11-Mar-2025 00:05:22.493 INFORMAÇÕES [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+11-Mar-2025 00:05:22.493 INFORMAÇÕES [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8001"]
+11-Mar-2025 00:05:22.494 INFORMAÇÕES [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

@@ -1,0 +1,8 @@
+11-Mar-2025 00:05:22.407 INFORMAÇÕES [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8001"]
+11-Mar-2025 00:05:22.419 INFORMAÇÕES [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+11-Mar-2025 00:05:22.425 INFORMAÇÕES [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+11-Mar-2025 00:05:22.474 ADVERTÊNCIA [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [tasks-backend] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-Mar-2025 00:05:22.492 INFORMAÇÕES [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8001"]
+11-Mar-2025 00:05:22.493 INFORMAÇÕES [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+11-Mar-2025 00:05:22.493 INFORMAÇÕES [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8001"]
+11-Mar-2025 00:05:22.494 INFORMAÇÕES [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

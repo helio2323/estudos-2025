@@ -1,0 +1,7 @@
+11-Mar-2025 00:05:22.470 INFORMAÇÕES [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+11-Mar-2025 00:05:22.471 INFORMAÇÕES [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+11-Mar-2025 00:05:22.478 INFORMAÇÕES [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+11-Mar-2025 00:05:22.478 INFORMAÇÕES [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+11-Mar-2025 00:05:22.482 INFORMAÇÕES [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+11-Mar-2025 00:05:22.483 INFORMAÇÕES [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+11-Mar-2025 00:05:22.485 INFORMAÇÕES [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
